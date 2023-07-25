@@ -1,0 +1,10 @@
+* cl-libsvm-format
+
+A fast LibSVM data format reader for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/masatoi/cl-libsvm-format.git   |
+| commit  | 3300f84  |
+| systems | cl-libsvm-format |
+|---------+-------------------------------------------|
+
